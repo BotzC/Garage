@@ -59,6 +59,6 @@ echo ~
 </s:AttributeType>
 <s:AttributeType name="MD" rs:number="15">
 <s:datatype dt:type="hexBinary"/>
-Do you see the garage ("6.659511,79.972528")
+Do you see the Garage ("6.659511,79.972528")
 thanks you....!
 Exit
